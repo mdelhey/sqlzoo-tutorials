@@ -1,4 +1,4 @@
 sqlzoo-tutorials
 ================
 
-sqlzoo tutorial exercises
+Completed exercises for the [sqlzoo tutorials](http://sqlzoo.net/wiki/Main_Page).
